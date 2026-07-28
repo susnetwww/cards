@@ -5,8 +5,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>'s Card</title>
-        <link rel="stylesheet" href="/flyer.css">
-
+        <link rel="stylesheet" href="/css/flyer.css">
+        
         <style>
 body {font-family: ""; background: }
 .main {background: ;}
