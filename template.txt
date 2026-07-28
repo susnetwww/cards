@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>'s Card</title>
         <link rel="stylesheet" href="/flyer.css">
-		
+
         <style>
 body {font-family: ""; background: }
 .main {background: ;}
@@ -60,14 +60,14 @@ body {font-family: ""; background: }
                     <li>-</li>
                 </ul>
             </div>
-			<div class="dislikes"><b>Dislikes</b>
+            <div class="dislikes"><b>Dislikes</b>
                 <ul>
                     <li>-</li>
                     <li>-</li>
                     <li>-</li>
                 </ul>
             </div>
-			<div class="favorites">
+            <div class="favorites">
                 <table>
                     <tbody>
                         <tr>
