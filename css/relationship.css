@@ -29,7 +29,7 @@ div.rel div.p2 { grid-area: p2; }
 
 div.rel div.r2 { grid-area: r2; }
 
-div.rel div.sentiment { grid-area: sentiment; }
+div.rel div.sentiment { grid-area: sentiment; align-self: center; }
 
 div.sentiment .view {  display: grid;
   grid-template-columns: 1fr;
