@@ -1,0 +1,13 @@
+<div class="rel">
+    <div class="p1"><img src="https://placehold.co/400"></div>
+    <div class="r1"></div>
+    <div class="p2"><img src="https://placehold.co/400"></div>
+    <div class="r2"></div>
+    <div class="sentiment">
+    <p style="font-weight: bold">Bond: </p>
+    
+    Views as
+    Calls [them]
+    Refers to them as
+    </div>
+</div>
