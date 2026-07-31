@@ -10,10 +10,35 @@ div.rel {  display: grid;
 
 div.rel div.p1 { grid-area: p1; }
 
-div.rel .r1 { grid-area: r1; }
+div.rel div.r1 { grid-area: r1; }
 
-div.rel .p2 { grid-area: p2; }
+div.rel div.p2 { grid-area: p2; }
 
-div.rel .r2 { grid-area: r2; }
+div.rel div.r2 { grid-area: r2; }
 
-div.rel .sentiment { grid-area: sentiment; }
+div.rel div.sentiment { grid-area: sentiment; }
+
+div.sentiment .view {  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "bond"
+    "l2r"
+    "icon"
+    "r2l";
+}
+
+div.sentiment .bond { grid-area: bond; }
+
+div.sentiment .l2r { grid-area: l2r; }
+
+div.sentiment .r2l { grid-area: r2l; }
+
+div.sentiment .icon { grid-area: icon; }
+
+
+
+
+
