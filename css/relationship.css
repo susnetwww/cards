@@ -38,7 +38,16 @@ div.sentiment .r2l { grid-area: r2l; }
 
 div.sentiment .icon { grid-area: icon; }
 
-
+td:nth-child(even) {
+  text-align: right;
+  padding-left: 10px;
+}
+td:nth-child(odd) {
+  font-weight: bold;
+  text-align: left;
+  white-space: nowrap
+}
+table {width: 100%; padding-top: 1em;padding-bottom: 0.5em; }
 
 
 
