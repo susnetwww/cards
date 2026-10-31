@@ -71,6 +71,9 @@ body {font-family: ""; background: }
                 <table>
                     <tbody>
                         <tr>
+                            <td>Personal item:</td>
+                            <td></td>
+                        </tr>
                             <td>Favorite activity:</td>
                             <td></td>
                         </tr>
@@ -87,7 +90,11 @@ body {font-family: ""; background: }
                             <td></td>
                         </tr>
                         <tr>
-                            <td>Personal item:</td>
+                            <td>Favorite color:</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>Music taste:</td>
                             <td></td>
                         </tr>
                     </tbody>
